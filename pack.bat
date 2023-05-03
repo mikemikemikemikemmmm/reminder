@@ -1,0 +1,1 @@
+pyinstaller  --add-data src/assets;assets  --noconsole   --onefile src/app.py
